@@ -9,7 +9,7 @@ Practiced at offering a first-class service to customers, making their experienc
 
 ---
 
-<h2 align="center"> Work Experience </h2>
+<h2 align="left"> Work Experience </h2>
 
 **IKEA North York, Toronto ON.**\
 **December 2021 - Present** 
@@ -39,5 +39,5 @@ Practiced at offering a first-class service to customers, making their experienc
 
 ---
 
-<h2 align ="center"> Skills </h2>
+<h2 align ="left"> Skills </h2>
 
