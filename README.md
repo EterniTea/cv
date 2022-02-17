@@ -1,6 +1,6 @@
-<h1 align="left"> Raistlin Hume </h1>
+<h1 align="center"> Raistlin Hume </h1>
 
-<h4 align="left"> Dedicated Customer Service Specialist | raistlin.hume@gmail.com | Toronto, ON. </h4>
+<h4 align="center"> Dedicated Customer Service Specialist | raistlin.hume@gmail.com | Toronto, ON. </h4>
 
 Experienced Customer Service Specialist with experience gained in the service sector. Confident when speaking
 with customers and attending to their needs. Adept at solving problems and able to think quickly on feet.
@@ -9,7 +9,7 @@ Practiced at offering a first-class service to customers, making their experienc
 
 ---
 
-<h2 align="left"> Work Experience </h2>
+<h2 align="center"> Work Experience </h2>
 
 **IKEA North York, Toronto ON.**\
 **December 2021 - Present** 
@@ -17,8 +17,8 @@ Practiced at offering a first-class service to customers, making their experienc
 *Returns and Exchanges Team Support (shift/floor supervisor)*
 <br/><br/>
 
-**IKEA North York, Toronto ON.**
-<p align="right"> **September 2017 - December 2021** </p>
+**IKEA North York, Toronto ON.**\
+**September 2017 - December 2021**
 <br/><br/>
 *Customer Relations Support (Full time)*
 <br/><br/>
@@ -39,4 +39,5 @@ Practiced at offering a first-class service to customers, making their experienc
 
 ---
 
-<h2 align ="left"> Skills </h2>
+<h2 align ="center"> Skills </h2>
+
